@@ -72,7 +72,6 @@ module RailsERD
       # Default edge attributes.
       EDGE_ATTRIBUTES = {
         :fontname => "Arial",
-        :fontsize => 8,
         :dir => :both,
         :arrowsize => 0.9,
         :penwidth => 1.0,
